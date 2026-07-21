@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Tipos de Bombillas</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' href='/estilos/styles.css'>
+    <link rel="icon" type="image/png" href="imagenes/Icono Mate.png">
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	
+</head>
+<body>
+    
+    <header>
+		<?php include "../include/header.php"?>
+	</header>
+
+    <div class="main">
+
+        <div class="informacion-principal">
+			<div class="informacion-principal-titulo">
+				<h1>Tipos de bombillas</h1>
+			</div>
+			<p>
+				La bombilla es un accesorio sumamente importante para el mate. Se trata de un tubo fino curvo que permite llevar la infusión hasta la boca para beberla. Además cuenta con un filtro que separa los palillos del polvo de la yerba
+				<br>
+				<a name="Partes-de-una-bombilla"></a>
+				Existen bombillas de muchos materiales y formas diferentes, lo que permiten que cada persona pueda elegir la más conveniente para disfrutar del mate. Pero antes vamos a entender las partes de la bombilla. 
+			</p>
+			<br>
+			<h2>Partes de una Bombilla</h2>
+			<h4>Boca o Pico</h4>
+			<p>Es la parte superior donde colocamos la boca para absorber el mate.</p>
+			<br>
+			<h4>Virola</h4>
+			<p>Es un accesorio que se ubica por debajo de la boca. Su función no solo es decorativa, sino que también evita que la persona que tome mate se queme.</p>
+			<br>			
+			<h4>Cuerpo o tubo</h4>
+			<p>Es la bombilla en sí misma, toda la pieza sin la parte inferior del filtro. En su mayoría tienen una leve curvatura en la parte media superior para comodidad en su uso</p>
+			<br>
+			<h4>Filtro o Coco</h4>
+			<p>Es la parte inferior de la bombilla que hace la función de filtrar el agua de la Yerba mate. El coco puede variar su forma y tamaño.</p>
+			<br>
+			<a name="Bombilla-Alpaca"></a>
+			<p>Ahora si, repasaremos los distintos tipos de bombillas:</p>
+			<h2>Por Material:</h2>
+            <h3>Bombilla de Alpaca</h3>
+            <p>
+				Es uno de los materiales más elegidos para regalar por durabilidad y por la posibilidad de ornamentación.
+				<br>
+				Es una aleación de tres elementos: zin, cobre y níquel. Según la composición de cada elemento se hará una mejor o peor alpaca. Mientras más calidad tiene, menos transmitirá el calor a la bombilla. La limpieza tiene que ser más frecuente que con otros materiales. 
+            </p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/bombilla-alpaca.png">
+				<a name="Bombilla-Bronce"></a>
+			</div>
+            <br>
+            <h3>Bombilla de Bronce</h3>
+            <p>
+				Son las mas comunes y económicas. Su durabilidad es buena aunque el enchapado cromado suele desprenderse fácilmente sobre el filtro y la boquilla donde se apoyan los labios.
+				<br>
+				Se debe cuidar su higiene, de lo contrario, suele taparse; esto también genera que el gusto de la infusión cambie a un sabor desagradable.
+            </p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/bombilla-bronce.png">
+				<a name="Bombilla-Acero-Quirurjico"></a>
+			</div>
+			<br>
+            <h3>Bombilla de Acero Quirúrgico</h3>
+            <p>
+				Es el metal más duro de doblar. Como no se hace cincelado, suelen ponerles apliques de alpaca o bronce para que llame la atención y no sea tan insulsa.
+				<br>
+				Estas se calientan mucho menos que las de plata o cobre, se tapan mucho menos ya que este material evita la adherencia de partículas y su durabilidad es muy buena.
+            </p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/bombilla-acero-quirurgico.png">
+				<a name="Bombilla-Caña-Bambu"></a>
+			</div>
+            <br>
+            <h3>Bombilla de Caña de Bambú</h3>
+            <p>
+				Bombillas creadas por los guaraníes, utilizando las ramas huecas de esta planta con tiras de bambú tejidas que actúan como filtro.
+				<br>
+				Son bombillas muy ecológicas y naturales,  la madera es muy resistente al agua aunque después de algunos años pueden quebrarse.
+            </p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/bombilla-cania.jpeg">
+				<a name="Bombilla-Aluminio"></a>
+			</div>
+			<br>
+			<h3>Bombilla de Aluminio</h3>
+			<p>
+				Las bombillas de aluminio son una de las más modernas. Primero se presentaban solo en color plateador, su tono natural, pero ahora también se las colorea para que se vean más atractivas.
+				<br>
+				En este caso el aluminio puede interferir en el sabor del mate por la composición del metal y rápidamente se calienta haciendo difícil su uso. Su tiempo de vida util es muy extenso.
+			</p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/bombilla-aluminio.jpg">
+				<a name="Bombilla-Madera"></a>
+			</div>
+			<br>
+			<h3>Bombilla de Madera</h3>
+			<p>
+				Bombillas poco común de ver ya que son artesanales. Se hacen torneando la madera en forma de bombilla y perforando uno de sus extremos para el filtrado.
+				<br>
+				Su durabilidad dependerá de la calida de la madera, ya que se veran afectadas por el agua caliente. Además, no se desarman y no poseen curvatura.
+			</p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/bombilla-madera.png">
+				<a name="Bombilla-Plata"></a>
+			</div>
+			<br>
+			<h3>Bombilla de Plata</h3>
+			<p>
+				Suelen ser las mas bonitas. Se encuentran con detalles y grabados en oro, esto también las hacen las mas costosas. Su duración es muy buena y sus cuidados reducidos ya que se limpian muy fácil.
+				<br>
+				Uno de los inconvenientes del uso de la plata en bombillas es que la temperatura del agua se trasmite fácilmente y hay que tener la precaución del caso para no quemarnos.
+			</p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/bombilla-plata.jpg">
+			</div>
+			<br>
+			<a name="Bombilla-Chata"></a>
+			<br>
+			<h2>Por forma</h2>
+			<h3>Bombilla Chata</h3>
+			<p>
+				La característica principal es su cuerpo y boca plana, achatando el cuerpo tradicionalmente tubular innovando en diseño.
+				<br>
+				Algunas de estas no cuentan con un coco o filtro sino que se perfora uno de los extremos simplemente para crear el filtro. No son útiles en cualquier mate ya que por su diseño en ocasiones dificulta la absorción.
+			</p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/bombilla-chata.png">
+				<a name="Bombilla-Cilindrica"></a>
+			</div>
+			<br>
+			<h3>Bombilla Cilíndrica</h3>
+			<p>
+				Se lo llama así por su filtro, también llamado coco, tiene forma cilíndrica. Son de Acero Inoxidable generalmente y sus apliques y virola son de Cobre lo que las hace muy duraderas. 
+				<br>
+				Son desarmables desenroscando el coco. Son de filtrado lento por su diseño, filtra muy bien la yerba mate.
+			</p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/bombilla-cilindrica.png">
+				<a name="Bombilla-Tambor"></a>
+			</div>
+			<br>
+			<h3>Bombilla Tambor</h3>
+			<p>
+				Esta bombilla es muy común en Paraguay para tomar tereré. Suelen ser bombillas largos, filtro ancho, de cómodo uso y gran filtrado.
+				<br>
+				Por lo general no son desarmables y el material elegido para su fabricación es bronce o alpaca.
+			</p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/bombilla-tambor.jpeg">
+				<a name="Bombilla-Hexagono"></a>
+			</div>
+			<br>
+			<h3>Bombilla Hexágono</h3>
+			<p>
+				Este tipo de bombilla moderno se lo denomina así por su coco hexagonal. Este filtro suelen ser desarmables para limpiarlas, además de tener filtrado lento.
+				<br>
+				Para que sean bombillas duraderas, el filtro está realizado en bronce y cubierto con níquel.
+			</p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/bombilla-hexagonal.png">
+				<a name="Bombilla-Guitarrita"></a>
+			</div>
+			<br>
+			<h3>Bombilla Guitarrita</h3>
+			<p>
+				El filtro se conforma de dos piezas casi planas con una perforación para filtro y unidos por una virola a rosca.
+				<br>
+				Las encontramos de Acero y Bronce Niquelado también, algunas con apliques o labrados en el cuerpo de la bombilla con fin decorativo.
+			</p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/bombilla-guitarrita.png">
+				<a name="Bombilla-Estribo"></a>
+			</div>
+			<br>
+			<h3>Bombilla Estribo</h3>
+			<p>
+				Son muy prácticas por su desarme para la limpieza interior, presionando el resorte hacia abajo y liberando el estribo en la parte inferior. Generalmente son de doble filtro ya que las perforaciones en el cuerpo de la bombilla filtran una primera vez y el resorte del estribo la segunda.
+				<br>
+				La mayoría tienen virola difusora de calor, son de color cromado y la podemos encontrar en diferentes materiales como Alpaca, Acero o Bronce Niquelado.
+			</p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/bombilla-estribo.jpg">
+			</div>
+        </div>
+
+        <aside class="columna">
+			<?php include "../include/aside.php"?>
+		</aside>
+
+    </div>
+
+
+    <footer>
+		<?php include "../include/footer.php"?>
+	</footer>
+	<a class="boton-arriba" href="#"><i class="fa-solid fa-angles-up"></i></i></a>
+
+	<script src="/scripts/script.js"></script>
+</body>
+</html>

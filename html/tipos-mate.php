@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Tipos de Mate</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' href='/estilos/styles.css'>
+    <link rel="icon" type="image/png" href="imagenes/Icono Mate.png">
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+</head>
+<body>
+    
+    <header>
+		<?php include "../include/header.php" ?>
+	</header>
+
+    <div class="main">
+
+        <div class="informacion-principal">
+            <div class="informacion-principal-titulo">
+                <h1>Tipos de Mates</h1>
+            </div>
+            <a name="Mate-Calabaza"></a>
+            <p>Existen diferentes tipos de mate: calabaza, cuernos, madera, vidrio, plástico, entre otros. 
+                Cada material tiene características que influyen en el sabor de esta infusión.</p>
+            <h2>Mate de Calabaza.</h2>
+            <p>
+                Es uno de los tipos de mates más tradicionales que existen. 
+                Son conocidos también con el nombre de mates “poro” o mate “porongo” 
+                en el caso de los de mayor tamaño.
+                <br>
+                Se encuentran realizados en la fruta de la calabaza ya que su forma redondeada
+                y la cascara dura que la recubre en el exterior permiten que sea utilizada como mate.
+                <br>
+                Para formar el hueco del interior se debe extraer la pulpa. 
+                Luego, estas frutas se ponen a secar para que queden listas para ser decoradas artesanalmente, 
+                lo que le añade un plus muy atractivo.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/mate-calabaza.jpg">
+                <a name="Mate-Alpaca"></a>
+            </div>
+            <br>
+            <h2>Mates de Plata o Alpaca.</h2>
+            <p>
+                Estos mates son similares a los anteriores ya que también se encuentran realizados con calabazas, 
+                la diferencia es que su decoración artesanal incluye adornos de metal como la plata y la alpaca.
+                <br>
+                También hay mates fundidos en plata, es decir que están realizados completamente en este metal. 
+                El trabajo comienza con el diseño, luego el fundido del metal y el moldeo con la forma deseada, 
+                por último se lo decora con pulido o grabado.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/mate-alpaca.png">
+                <a name="Mate-Cuero"></a>
+            </div>
+            <br>
+            <h2>Mate de Cuernos Vacunos.</h2>
+            <p>
+                Uno de los mates preferidos por los amantes de esta infusión son los confeccionados en cuernos vacunos.
+                <br>
+                Estos mates están realizados con astas y guampas que son más anchos en la parte de la base para que
+                tengan un buen apoyo. En su exterior son cubiertos con una capa de metal y decorados con detalles estéticos,
+                generalmente en plata.
+                <br>
+                Se recomienda llenar el mate de agua y detergente y dejar reposar 24 horas antes 
+                de curar utilizando yerba mate ya que estos cuernos vacunos tienen grasa que debe ser 
+                eliminada.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/mate-cuero.png">
+                <a name="Mate-Madera"></a>
+            </div>
+            <br>
+            <h2>Mates de Madera.</h2>
+            <p>
+                Los mates de maderas son muy vistosos ya que este es un material natural que aporta ese detalle rústico
+                y sus decoraciones pueden ser muy variadas, según el gusto de cada persona.
+                <br>
+                Las maderas más utilizadas para los mates de madera son: quebracho, palo santo y roble. 
+                Cada tipo de madera influye en el sabor del mate por esta razón es que también se deben evitar 
+                maderas aromáticas ya que podrían afectar negativamente al sabor de la infusión.
+                <br>
+                Para evitar que la madera del mate acumule humedad o se quiebre con el uso se recomienda
+                curarlo antes utilizando grasa vacuna, manteca o aceite.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/mate-madera.png">
+                <a name="Mate-Caña"></a>
+            </div>
+            <br>
+            <h2>Mates de Caña.</h2>
+            <p>
+                Estos mates se encuentran realizados con cañas de bambú. Este es un tipo de madera muy resistente
+                ya que se cultiva y crece en ambientes de temperaturas extremas,
+                esta es una ventaja ya que resiste muy bien al agua caliente.
+                <br>
+                Las cañas son seleccionadas para la fabricación de los mates, luego se las pule y se le aplica una capa de barniz.
+                <br>
+                El sabor del mate en cañas de bambú es muy diferente al del resto, vale la pena probarlo.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/mate-cania.png">
+                <a name="Mate-Vidrio"></a>
+            </div>
+            <br>
+            <h2>Mates de Vidrio</h2>
+            <p>
+                En la actualidad también se pueden encontrar mates de vidrio. Se trata de recipientes fundidos en vidrio, 
+                en la mayoría de los casos se trata de vidrio reciclado.
+                <br>
+                Una de las ventajas que tiene este tipo de mate es que el vidrio es un material que no tiene efectos en el sabor de la infusión.
+                Con este mate se puede sentir el verdadero sabor de la yerba mate.
+                <br>
+                Además, hay que destacar que se trata de un mate que no necesita ser curado antes de usar y que se lava 
+                fácilmente evitando que se acumulen restos de yerba, humedad u hongos en su interior.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/mate-vidrio.png">
+                <a name="Mate-Metal"></a>
+            </div>
+            <br>
+            <h2>Mates de Metal</h2>
+            <p>
+                Ya hemos hablado de los mates de metal cuando mencionamos a los mates de plata, pero también
+                estos recipientes pueden realizarse en otros materiales como el acero inoxidable.
+                <br>
+                Se trata de mates muy duraderos ya que el metal es muy resistente a los golpes y caídas, como también a la corrosión y oxido.
+                <br>
+                No necesita ser curado ya que el metal no es un material poroso, por esta razón también se destaca como un mate de fácil limpieza lo que es importante para que no quede acumulado yerba.
+                <br>
+                La única desventaja de los mates de metal es que el calor del agua puede aumentar la temperatura del metal y quemar las manos.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/mate-metal.jpg">
+                <a name="Mate-Plastico"></a>
+            </div>
+            <br>
+            <h2>Mates de Plástico</h2>
+            <p>
+                Los mates de plástico que son los mates más modernos, son tendencia en la actualidad por sus colores y formas tan originales.
+                <br>
+                El plástico es un material sintético muy económico por lo que estos mates pueden conseguirse a un precio accesible en el mercado.
+                <br>
+                Se destacan por ser muy estéticos con sus diseños modernos, pero también súper prácticos ya que no necesitan ser curados, son de fácil limpieza, no acumulan bacterias y mantienen en temperatura el agua del mate.
+                <br>
+                Para que el plástico no afecte al sabor del mate se recomienda no utilizar agua demasiado caliente ya que esto podría causar que el material sintético desprenda toxinas que puedan ser perjudiciales para la salud.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/mate-plastico.png">
+                <a name="Mate-Guampa"></a>
+            </div>
+            <br>
+            <h2>Mate de Guampa</h2>
+            <p>
+                El mate de guampa tiene como característica ser fabricado con el cuerno o asta de bobino. El hueso que compone los cuernos fue aprovechado por los artesanos debido a su condición liviana, brillosa y sólida para ahuecarla y adaptarlas como recipientes. Algunos ejemplares de lujo llevan anillos, embocaduras y base de plata.
+                <br>
+                La palabra guampa proviene del quechua y significa cuerno. Aunque también es conocido también con el nombre de mate del resero por la costumbre de los troperos de usar esta variedad de recipiente de vida útil más prolongada que el de calabaza para los largos viajes de las vaquerías.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/mate-guampa.jpg">
+            </div>
+        </div>
+
+        <aside class="columna">
+            <?php include "../include/aside.php" ?>
+		</aside>
+
+    </div>
+
+
+    <footer>
+		<?php include "../include/footer.php" ?>
+	</footer>
+	<a class="boton-arriba" href="#"><i class="fa-solid fa-angles-up"></i></i></a>
+
+    <script src="/scripts/script.js"></script>
+</body>
+</html>

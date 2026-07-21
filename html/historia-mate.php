@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Historia del Mate</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' href='/estilos/styles.css'>
+    <link rel="icon" type="image/png" href="imagenes/Icono Mate.png">
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	
+</head>
+<body>
+    
+    <header>
+		<?php include "../include/header.php"?>
+	</header>
+
+    <div class="main">
+
+        <div class="informacion-principal">
+			<div class="informacion-principal-titulo">
+				<h1>Historia del Mate</h1>
+			</div>
+            <p>
+                Su origen se remonta a los pueblos guaraníes, un pueblo de nativos sudamericanos que abarcaban parte del Brasil, Argentina, Bolivia, Paraguay y Uruguay, quienes la consumían de forma cotidiana y que utilizaban las hojas del árbol como bebida. Estos lo consideraban un “regalo de los dioses”.
+            </p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/guaranies.jpg">
+			</div>
+			<br>
+			<p>
+				Para los guaraníes, las hojas de la Yerba Mate no solo eran utilizadas para preparar bebidas, sino que también eran utilizadas en sus trueques, es decir que podían usarse como monedas, y eran parte de sus cultos.
+				<br>
+				En la lengua guaraní, el nombre de la Yerba Mate es “Caá”, significa: yerba, planta y selva.
+			</p>
+			<br>
+			<p>
+				Los guaraníes decían que la yerba tenia poderes divinos porque era un regalo del cielo. En realidad los “poderes” a los que ellos se referían no eran más que las propiedades de este árbol que son tan beneficiosas para la salud.
+			</p>
+			<br>
+			<p>
+				Al principio, la forma de consumirlo era masticando las hojas y en infusiones frías.
+			</p>
+			<br>
+			<p>
+				El nombre "mate" llegó mucho tiempo después, cuando la infusión comenzó a servirse en cuencos que se formaban ahuecando la calabaza. La palabra proviene del quichua "mati", que significa calabaza.
+			</p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/guaranies2.jpg">
+			</div>
+			<br>
+			<p>
+				Tras su llegada, los españoles quedaron impactados por esta costumbre y su efecto estimulante en los indios. "Se dieron cuenta de que los guaraníes trabajaban mejor cuando consumían mate".
+				Aunque comenzaron a dudar sobre la Yerba, mucho más los sacerdotes, y lo consideraron un “árbol del demonio”.
+			</p>
+			<br>
+			<p>
+				Con la Inquisición de Lima en el año 1610, el mate fue prohibido y las penas por consumir o traficar yerba iban desde los 100 latigazos a multas de 100 pesos, dependiendo si se trataba de indígenas o españoles.
+				<br>
+				Aunque dos décadas después todo volvió a la normalidad: el mate volvió a ser legal. Fueron los mismos jesuitas que utilizaron la producción de yerba para expandirse económica y territorialmente. Además, contribuyeron a su difusión y comercialización, 
+                al punto tal de que la infusión se hizo conocida entonces como té de los jesuitas.
+			</p>
+			<br>
+			<p>
+				La interacción con la orden católica de los jesuitas que misionaron en la Mesopotamia la que terminó de moldear la forma en que actualmente se lo bebe, mezclado con agua caliente
+			</p>
+			<br>
+			<div class="informacion-principal-imagen">
+				<img src="/imagenes/jesuita.jpg">
+			</div>
+			<br>
+			<p>
+				En ese momento ellos tenían el “monopolio” de la yerba mate y se encontraban en la región de Paraguay.
+				<br>
+				Tiempo después por problemas en el comercio y política, pierden su lugar como productores principales de yerba y es ahí cuando Argentina se convierte en el país con mayor producción.
+			</p>
+        </div>
+
+        <aside class="columna">
+			<?php include "../include/aside.php"?>
+		</aside>
+
+    </div>
+
+
+    <footer>
+		<?php include "../include/footer.php"?>
+	</footer>
+	<a class="boton-arriba" href="#"><i class="fa-solid fa-angles-up"></i></i></a>
+
+	<script src="/scripts/script.js"></script>
+</body>
+</html>

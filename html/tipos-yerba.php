@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Tipos de Yerba</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' href='/estilos/styles.css'>
+    <link rel="icon" type="image/png" href="imagenes/Icono Mate.png">
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	
+</head>
+<body>
+    
+    <header>
+		<?php include "../include/header.php"?>
+	</header>
+
+    <div class="main">
+
+        <div class="informacion-principal">
+            <div class="informacion-principal-titulo">
+                <h1>Tipos de yerba.</h1>
+            </div>
+            <h2>¿Qué Tipo de yerba elegir?</h2>
+            <p>
+                Debes saber que cuando bebes mate todo detalle influye, ya sea la hoja, el palo o las proporciones. 
+                Esto puede cambiar el sabor, su intensidad y duración de la bebida.
+                Por este motivo, cada marca tiene variedades supliendo cada gusto del consumidor,
+                y es por esto que tú debes conocer los aspectos que hacen la diferencia en cada sorbo que tomas.
+                Para elegir una buena yerba mate, debemos tener en cuenta dos factores claves: 
+                el tiempo de estacionamiento y la mezcla o blend que elabora cada marca. ¡Vamos a ver!
+				<a name="Yerba-Sin-Palo"></a>
+            </p>
+            <br>
+            <h2>Yerba sin palo</h2>
+            <p>Empezamos describiendo el tipo de yerba mate más fuerte. Su sabor es mucho más intenso y duradero que el de cualquier otro. 
+                Esto debido a que el 90% del contenido son hojas trituradas y el restante es el palo.
+                <br>
+                El porcentaje de este último no puede subirse mucho, ya que, según el código alimentario, se debe tener al menos un 90% de hojas trituradas,
+                rotas o pulverizadas para que pueda comercializarse y el porcentaje de palo no puede superar más del 10%.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/yerba-sin-palo.png">
+				<a name="Yerba-Con-Palo"></a>
+            </div>
+            <br>
+            <h2>Yerba con palo</h2>
+            <p>Por el contrario la yerba mate con palo es mucho más suave, ya que, el palo la hace ser el tipo 
+                de bebida más tradicional y es una buena opción para cualquiera que comienza a tomar mate.
+                <br>
+                En este caso el porcentaje de hojas es del 70% y el 30% restante es del palo. La bebida debe tener al menos un 65% de hojas contra un 35% de palo.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/yerba-con-palo.png">
+				<a name="Yerba-Saborizada"></a>
+            </div>
+            <br>
+            <h2>Yerba Saborizada</h2>
+            <p>
+                La yerba mate saborizada es un excelente tipo de yerba para aquellas personas que 
+                quieren siempre el mismo sabor de bebida ya que no les gusta el sabor amargo que puede llegar a tener.
+                <br>
+                Las esencias más conocidas son hechas a base de sabores cítricos, como el pomelo, limón o naranja,
+                pero también se encuentran tipos fuera de lo común, como frutos del bosque y tropicales.
+                <br>
+                Un ejemplo de marca de yerbas saborizadas es CBSé.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/yerba-saborizada.png">
+				<a name="Yerba-Compuesta"></a>
+            </div>
+            <br>
+            <h2>Yerba Compuesta</h2>
+            <p>
+                La yerba mate compuesta contiene una gran variedad de yerbas como la manzanilla, tilo, poleo, entre otras.
+                <br>
+                Este tipo de infusión es muy popular ya que se puede mezclar las propiedades 
+                básicas y naturales que trae el mate junto con todos los beneficios que las demás plantas tienen.
+                <br>
+                Se recomienda tomarlo después de la cena, ya que muchas de las yerbas del mate compuesto son de carácter digestivo o 
+                producen sensaciones relajantes, perfectas para antes de ir a dormir o cuando se maneja mucho estrés.
+                <br>
+                Según el código alimentario, este tipo de mate debe contener al menos 
+                un 40% de hierbas aromáticas y el 60% restante debe ser la yerba mate.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/yerba-compuesta.jpg">
+				<a name="Yerba-Barbacua"></a>
+            </div>
+            <br>
+            <h2>Yerba Barbacuá</h2>
+            <p>
+                Este tipo de yerba mate es de origen Guaraní por lo que su proceso consta en ser sometida a un tipo de secado. 
+                Este proceso se ha venido utilizando desde los tiempos en los que los nativos guaraníes la trataban para que fuese consumida posteriormente,
+                de allí viene su nombre “Barbacuá”, esto significa “tostado” en guaraní.
+                <br>
+                Su proceso es bastante simple por lo que ha pasado de generación en generación convirtiéndose en una tradición cultural. 
+                Primero las hojas deben ser expuestas al calor del fuego de la leña durante un día, así se logrará el famoso aspecto tostado, 
+                además, también se debe dejar la yerba sobre maderas que permiten el secado total.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/yerba-barbacua.png">
+				<a name="Yerba-Organica"></a>
+            </div>
+            <br>
+            <h2>Yerba Orgánica</h2>
+            <p>
+                La fabricación de esta yerba mate tiene un cuidado especial con el medio ambiente, ya que, desde la etapa de siembra,
+                se evita utilizar químicos que dañen los suelos como se hace comúnmente.
+                <br>
+                Además, los envases están regulados por distintos organismos nacionales e internacionales, 
+                quienes aseguran que dichos son reciclables, tanto el envase como el empaque.
+                <br>
+                En Argentina especialmente, el ministerio de agroindustria otorgó el sello de “orgánico Argentina” a todos aquellos productos que opten por preferir esta modalidad de producción, 
+                pues se minimiza el consumo de recursos no renovables y se favorece al cuidado del ecosistema. 
+                Beneficiando así tanto al suelo o las plantaciones, como también a todos de poder consumir un producto orgánico.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/yerba-organica.png">
+				<a name="Yerba-Terere"></a>
+            </div>
+            <br>
+            <h2>Yerba para Tereré</h2>
+            <p>
+                Este tipo de yerba es procesada un poco más gruesa de lo que se conoce comúnmente y se conoce como una de las bebidas típicas de Paraguay y de Argentina. Se la puede tomar con agua fría o mezclada con frutas y jugos naturales.
+                <br>
+                A pesar de que el tamaño de la yerba es mayor, la cantidad que se usa es menor, lo cual ayuda a que la bombilla no quede obstruida,
+                logrando un tipo de mate especial para servir con agua a temperatura ambiente; 
+                Si se hace lo mismo con la yerba normal, verás que será más fácil que la bombilla se tape, 
+                por lo que es mejor utilizar la técnica de menos polvo, logrando que la yerba tenga un mayor grosor.
+            </p>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/yerba-terere.png">
+            </div>
+        </div>
+
+        <aside class="columna">
+			<?php include "../include/aside.php"?>
+		</aside>
+
+    </div>
+
+
+    <footer>
+		<?php include "../include/footer.php"?>
+	</footer>
+	<a class="boton-arriba" href="#"><i class="fa-solid fa-angles-up"></i></i></a>
+
+    <script src="/scripts/script.js"></script>
+</body>
+</html>

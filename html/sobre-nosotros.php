@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Sobre Mi</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' href='/estilos/styles.css'>
+    <link rel="icon" type="image/png" href="imagenes/Icono Mate.png">
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	
+</head>
+<body>
+    
+    <header>
+		<?php include "../include/header.php"?>
+	</header>
+
+    <div class="main">
+
+        <div class="informacion-principal">
+			<div class="informacion-principal-titulo">
+                <h1>Sobre Mi</h1>
+            </div>
+            <p>Mi nombre es Thiago, soy egresado como Técnico en Informática Profesional y Personal y actualmente continúo mi formación como estudiante de la Tecnicatura Universitaria en Programación en la UTN. 
+            Me apasiona la programación el desarrollo de software y el aprendizaje continuo. Te invito a conocer más sobre mi trayectoria académica y proyectos en mi perfil de <a href="https://www.linkedin.com/in/thiago-rodriguez-2ba096287/">LinkedIn</a>. 
+            </p>
+			<br>
+            <p>
+                Como amante del mate decidí rescatar este proyecto desarrollado originalmente durante mi etapa en el secundario para informar sobre la infusion que tanto amamos en el sur de America. El objetivo es informar de manera clara y accesible a aquellos que no conocen sobre esta tradición en esta pagina teniendo todo al alcance de pocos clicks.
+                <br>El proyecto fue hecho hace 3 años sin tener mucha idea de como realizarlo. Al retomarlo note los errores del pasado, y con lo aprendido durante este tiempo aplique cambios como modularización de código repetido, refactorización, reestructuración de archivos, asi teniendo una proyecto mas limpio y mantenible.
+                <br>Para saber mas puede visitar el código en <a href="https://github.com/rzThiago/web-mate.git">GitHub</a>.
+            </p>
+
+        </div>
+
+        <aside class="columna">
+			<?php  include "../include/aside.php"?>
+		</aside>
+
+    </div>
+
+
+	<footer>
+		<div class="footer-box">
+			<div class="footer-titulo">
+				<h1>Gracias por visitar</h1>
+			</div>
+			<hr>
+			<div class="footer-links">
+				<a href="/index.php">Inicio</a>
+			</div>
+		</div>
+	</footer>
+	<a class="boton-arriba" href="#"><i class="fa-solid fa-angles-up"></i></i></a>
+
+    <script src="/scripts/script.js"></script>
+</body>
+</html>

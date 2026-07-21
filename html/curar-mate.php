@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Como Curar un Mate</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' href='/estilos/styles.css'>
+    <link rel="icon" type="image/png" href="imagenes/Icono Mate.png">
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+</head>
+<body>
+    
+    <header>
+		<?php include "../include/header.php"?>
+	</header>
+
+    <div class="main">
+
+        <div class="informacion-principal">
+            <div class="informacion-principal-titulo">
+                <h1>Como curar un Mate</h1>
+            </div>
+            <p>
+                El curado de mate es un proceso para mates naturales (como la calabaza, madera, entre otro) en el cual se sellan los poros del mate para que estos no liberen componentes que alteren el sabor del mate. Por otro lado, alargará su tiempo de vida, evitando rajaduras al verter agua caliente. Además de que no genere moho u hongos dentro del mate.
+            </p>
+            <br>
+            <h2>¿Qué tipos de mates deben ser curados?</h2>
+            <p>
+                Los mates que necesitan ser curados son aquellos fabricados en materiales porosos y naturales, principalmente calabaza y madera, como también cuernos y pezuñas de animales vacunos.
+                <br>
+                Este tipo de materiales se mantiene húmedo por mucho tiempo entonces facilita la formación de moho, 
+                estos microorganismos se sueltan en el agua y alteran el sabor y olor de mate de forma poco agradable.
+                <br>
+                En cambio, hay otros tipos de mates que no deben ser curados. Entre estos debemos mencionar a los mates de metal, de vidrio, de cerámica y de plástico.
+				<a name="Curar-Mate-Calabaza"></a>
+                Estos materiales no son porosos entonces son de fácil limpieza y no se forman hongos por lo que no alteran el sabor de la yerba.
+            </p>
+            <br>
+            <h2>¿Como curar un mate de calabaza?</h2>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/mate-calabaza-curado.jpg">
+            </div>
+            <br>
+            <p>
+                Los mates de calabaza deben ser curados según si se quiere tomar mate amargo o dulce:
+            </p>
+            <h3>Para tomar mate amargo</h3>
+            <p>
+                El primer paso es lavar el interior del mate de calabaza utilizando agua caliente.
+            </p>
+            <p>
+                Cuando el mate ya esté limpio hay que llenarlo con yerba húmeda que haya quedado de mates anteriores. La yerba no tiene que secarse y, 
+                como reposará en al mate por algunas horas, hay que añadirle también un poco de agua tibia.
+                <br>
+                Después de 24 horas, utilizando una cuchara se debe quitar la yerba húmeda y los restos que queden en el interior del mate.
+                <br>
+                Este procedimiento debe repetirse entre 3 y 4 veces para que el mate de calabaza este curado para tomar mate amargo.
+            </p>
+            <h3>Para tomar mate dulce</h3>
+            <p>
+                Curar un mate de calabaza para tomar mate dulce es un procedimiento un poco más largo. También comienza con el lavado con agua caliente, 
+                es importante que el agua este a temperatura alta para desinfectar el recipiente.
+                <br>
+                El segundo paso consiste en verter dos cucharadas de azúcar al mate y agitarlo, 
+                tapando la boca del recipiente con la mano. Con esto se consigue que el azúcar quede adherida a las paredes.
+                <br>
+                Hay que dejar reposar por algunas horas hasta que el azúcar se seque. Es fácil darse cuenta porque una capa quedara cubriendo las paredes.
+                <br>
+                Para quemar el azúcar se debe añadir una brasa de carbón encendida en el interior del mate y agitarlo hasta que se apague.
+                Con agua caliente nuevamente se debe enjuagar el mate y verter yerba hasta llenarlo, agregar un poco de agua tibia y dejarlo reposar una noche completa.
+                <br>
+				<a name="Curar-Mate-Madera"></a>
+                Ahora sí, el mate ya está listo para ser lavado y usado por primera vez. Con el uso continuo del mate se seguirá curando.
+            </p>
+            <br>
+            <h2>¿Cómo curar un mate de Madera?</h2>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/mate-madera-curado.jpg">
+            </div>
+            <br>
+            <p>
+                Los mates de madera pueden estar realizados en quebracho, algarrobo, palo santo o roble. Es necesario curar estos mates para evitar que el agua caliente les produzca grietas.
+                <br>
+                El procedimiento es sencillo, hay que untar el interior del mate con manteca, grasa o aceite. Esto permitirá que los poros de 
+                la madera se sellen y por lo tanto se evitara que el agua caliente debilite la madera provocando quiebres.
+                <br>
+                También se puede curar un mate de madera llenándolo con yerba mate usada, es decir que haya sido cebada y que este húmeda. 
+				<a name="Curar-Mate-Guampa"></a>
+                Se lo debe dejar reposar por 24 horas mientras se le va añadiendo agua tibia para que la yerba no se seque.
+            </p>
+            <br>
+            <h2>¿Cómo curar un mate de guampa?</h2>
+            <br>
+            <div class="informacion-principal-imagen">
+                <img src="/imagenes/mate-guampa-curado.jpg">
+            </div>
+            <br>
+            <p>
+                Los mates de guampa necesitan ser curados para eliminar toda la grasa que contienen en su interior ya que esto se transmite al agua y le da un sabor feo.
+                <br>
+                Para curar un mate de guampa hay que añadirle agua con detergente y dejarlo reposar por 24 horas.
+                <br>
+                Se recomienda usar los mates de guampa solo para mate amargo ya que si se le añade azúcar, este ingrediente alterara 
+                completamente la composición del recipiente y luego el sabor de los mates cebados allí no serán iguales a antes.
+            </p>
+        </div>
+
+        <aside class="columna">
+			<?php include "../include/aside.php"?>
+		</aside>
+
+    </div>
+
+
+    <footer>
+		<?php include "../include/footer.php"?>
+	</footer>
+	<a class="boton-arriba" href="#"><i class="fa-solid fa-angles-up"></i></i></a>
+
+    <script src="/scripts/script.js"></script>
+</body>
+</html>
