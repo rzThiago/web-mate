@@ -15,7 +15,10 @@
 <body>
     
     <header>
-		<?php include "../include/header.php"?>
+		<script type="module">
+			import {importarTemplate} from '/scripts/importarTemplate.js';
+			importarTemplate('/include/header.html', 'template-header', "header");
+		</script>
 	</header>
 
     <div class="main">
@@ -34,14 +37,14 @@
                 <li>4 cucharadas de manteca o grasa</li>
                 <li>1/2 taza de agua</li>
                 <li>2 cucharaditas de sal</li>
-                <li>Aceite o grasa para freir</li>
+                <li>Aceite o grasa para freír</li>
             </ul>
             <h4>Preparación:</h4>
             <ul>
                 <li>1.Colocar la harina en un bol. Hacer un hueco en la harina y coloquen la grasa o manteca a temperatura ambiente.</li>
                 <li>2.Amasar mientras se agrega el agua y la sal poco a poco hasta formar un bollo</li>
                 <li>3.Dejar reposar la masa por lo menos una hora. Luego formar pequeños bollos, achatarlas con las manos y pincharlas</li>
-                <li>4.Freir en abundante aceite o grasa caliente. Luego retirarlas y dejarlas reposar sobre papel absorbente.</li>
+                <li>4.Freír en abundante aceite o grasa caliente. Luego retirarlas y dejarlas reposar sobre papel absorbente.</li>
             </ul>
             <div class="informacion-principal-imagen">
                 <img src="/imagenes/torta-frita.jpg">
@@ -56,14 +59,14 @@
                 <li>2 huevos</li>
                 <li>300g de harina</li>
                 <li>Ralladura de limón</li>
-                <li>1 cuchadarita de polvo para hornear</li>
+                <li>1 cucharadita de polvo para hornear</li>
                 <li>1 cucharadita de esencia de vainilla</li>
                 <li>600g de membrillo o batata</li>
             </ul>
             <h4>Preparación:</h4>
             <ul>
                 <li>1.Mezclar en un bol el azúcar con la manteca a temperatura ambiente. Luego incorporar los huevos uno a uno,
-                    la escancia de vainilla y la ralladura de limon.
+                    la escancia de vainilla y la ralladura de limón.
                 </li>
                 <li>2.Tamizar la harina y mezclarla con el polvo para hornear. Unir los ingredientes hasta conseguir una masa blanda.</li>
                 <li>3.Estirar la masa y dejarla reposar en la heladera por 30 minutos.</li>
@@ -71,11 +74,11 @@
                     un molde para horno. Luego, estirar la masa con los dedos hasta cubrir el molde formando una base.
                 </li>
                 <li>5.Cortar el dulce de membrillo o batata en pequeños trozos, y aplastarlo con ayuda de agua caliente hasta que se ablande todo</li>
-                <li>6.Agrefar el dulce sobre la masa y esparcelo bien por todas partes. Cubrir este dulce con tiras de masa sobrante para decorar</li>
+                <li>6.Agrear el dulce sobre la masa y esparces bien por todas partes. Cubrir este dulce con tiras de masa sobrante para decorar</li>
                 <li>7.Llevar el molde al horno con una temperatura de 180°C por 45 minutos. Luego retirar y dejar reposar por unos minutos.</li>
             </ul>
             <div class="informacion-principal-imagen">
-                <img src="/imagenes/pastafrola.jpg"">
+                <img src="/imagenes/pastafrola.jpg">
 				<a name="Bizcochitos-Grasa"></a>
             </div>
             <br>
@@ -117,7 +120,7 @@
                 <ul>
                     <li>1.En un bol colocar el almidón de mandioca y hacer un hueco en el medio, colocar los huevos uno por uno, manteca en cubos y sal a gusto</li>
                     <li>2.Amasar hasta que los ingredientes se integren. Luego agregar el queso semiduro en cubos a la mezcla, seguir amasando y agregar leche</li>
-                    <li>3.Cortar la masa, forma bollos pequeños y agregalas a una placa de horno untada con manteca</li>
+                    <li>3.Cortar la masa, forma bollos pequeños y agrégalas a una placa de horno untada con manteca</li>
                     <li>4.Colocar la placa al horno a fuego fuerte por no más de 20 minutos</li>
                     <li>5.Retirarlas y dejarlas reposar 5 minutos.</li>
                 </ul>
@@ -127,13 +130,19 @@
             </div>
             
             <aside class="columna">
-                <?php include "../include/aside.php"?>
-		</aside>
+                <script type="module">
+				    import {importarTemplate} from '/scripts/importarTemplate.js';
+                    importarTemplate('/include/aside.html', 'template-aside', "aside");
+			    </script>
+		    </aside>
     </div>
 
 
     <footer>
-        <?php include "../include/footer.php"?>
+        <script type="module">
+			import {importarTemplate} from '/scripts/importarTemplate.js';
+			importarTemplate('/include/footer.html', 'template-footer', "footer");
+		</script>
 	</footer>
 	<a class="boton-arriba" href="#"><i class="fa-solid fa-angles-up"></i></i></a>
 

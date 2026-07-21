@@ -1,0 +1,87 @@
+<template id="template-header">
+
+<div class="banner">
+    <a href="/index.html">
+        <div>
+            <img id="img-banner" src="/imagenes/banner.png">
+        </div>
+    </a>
+</div>
+<nav class="header-links"> 
+    <div class="links">
+        <ul>
+            <button class="cerrar-header"><i class="fa-solid fa-xmark"></i></button>
+            <li><a href="/index.html">Inicio</a></li>
+            <li><a href="mailto:mailto:thiagorodriguezcontacto@gmail.com">Contacto</a></li>
+        </ul>
+    </div>
+    <!--
+    
+    <div class="buscador-header">
+        <input type="search" placeholder="Buscar" id="buscador" name="buscador">
+        <button class="boton-buscar">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </button>
+    </div>
+    
+    <div class="contenedor-tabla off">
+        <div class="tabla-catalogos">
+            <ul id="lista-buscador">
+                <li class="articuloBuscador"><a href="/html/tipos-mate.html">Tipos de Mate</a></li>
+                <li class="articuloBuscador"><a href="/html/como-preparar-mate.html">Como prepara Mate</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html">Tipos de Bombillas</a></li>
+                <li class="articuloBuscador"><a href="/html/historia-mate.html">Historia del Mate</a></li>
+                <li class="articuloBuscador"><a href="/html/caracteristicas-mate.html">Características del Mate</a></li>
+                <li class="articuloBuscador"><a href="/html/acompañar-mate.html">Con que acompañar el Mate</a></li>
+                <li class="articuloBuscador"><a href="/html/formas-preparar-mate.html">Formas de preparar un Mate</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-yerba.html">Tipos de Yerba</a></li>
+                <li class="articuloBuscador"><a href="/html/curar-mate.html">Como curar un Mate</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Partes-de-una-bombilla">Partes de una Bombilla</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Bombilla-Alpaca">Bombilla de Alpaca</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Bombilla-Bronce">Bombilla de Bronce</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Bombilla-Acero-Quirurjico">Bombilla de Acero Quirúrgico</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Bombilla-Caña-Bambu">Bombilla de Caña de Bambú</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Bombilla-Aluminio">Bombilla de Aluminio</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Bombilla-Madera">Bombilla de Madera</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Bombilla-Plata">Bombilla de Plata</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Bombilla-Chata">Bombilla Chata</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Bombilla-Cilindrica">Bombilla Cilíndrica</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Bombilla-Tambor">Bombilla Tambor</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Bombilla-Hexagono">Bombilla Hexágono</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Bombilla-Guitarrita">Bombilla Guitarrita</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.html#Bombilla-Estribo">Bombilla Estribo</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-mate.html#Mate-Calabaza">Mate de Calabaza</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-mate.html#Mate-Alpaca">Mate de Alpaca</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-mate.html#Mate-Cuero">Mate de Cuero Vacuno</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-mate.html#Mate-Madera">Mate de Madera</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-mate.html#Mate-Caña">Mate de Caña</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-mate.html#Mate-Vidrio">Mate de Vidrio</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-mate.html#Mate-Metal">Mate de Metal</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-mate.html#Mate-Plastico">Mate de Plástico</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-mate.html#Mate-Guampa">Mate de Guampa</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-yerba.html#Yerba-Sin-Palo">Yerba sin Palo</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-yerba.html#Yerba-Con-Palo">Yerba con Palo</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-yerba.html#Yerba-Saborizada">Yerba Saborizada</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-yerba.html#Yerba-Compuesta">Yerba Compuesta</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-yerba.html#Yerba-Barbacua">Yerba Barbacuá</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-yerba.html#Yerba-Organica">Yerba Orgánica</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-yerba.html#Yerba-Terere">Yerba para Tereré</a></li>
+                <li class="articuloBuscador"><a href="/html/acompañar-mate.html#Torta-Frita">Torta Frita</a></li>
+                <li class="articuloBuscador"><a href="/html/acompañar-mate.html#Pastafrola">Pastafrola</a></li>
+                <li class="articuloBuscador"><a href="/html/acompañar-mate.html#Bizcochitos-Grasa">Bizcochitos</a></li>
+                <li class="articuloBuscador"><a href="/html/acompañar-mate.html#Chipa">Chipá</a></li>
+                <li class="articuloBuscador"><a href="/html/caracteristicas-mate.html#Propiedades-Mate">Propiedades del Mate</a></li>
+                <li class="articuloBuscador"><a href="/html/caracteristicas-mate.html#Beneficios-Mate">Beneficios del Mate</a></li>
+                <li class="articuloBuscador"><a href="/html/caracteristicas-mate.html#Contraindicaciones-Mate">Contraindicaciones del Mate</a></li>
+                <li class="articuloBuscador"><a href="/html/curar-mate.html#Curar-Mate-Calabaza">Como Curar un Mate de Calabaza</a></li>
+                <li class="articuloBuscador"><a href="/html/curar-mate.html#Curar-Mate-Madera">Como Curar un Mate de Madera</a></li>
+                <li class="articuloBuscador"><a href="/html/curar-mate.html#Curar-Mate-Guampa">Como Curar un Mate de Guampa</a></li>
+                <li class="articuloBuscador"><a href="/html/sobre-nosotros.html">Sobre Nosotros</a></li>
+            </ul>
+        </div>
+    </div>
+    -->
+</nav>
+<button class="abrir-header"><i class="fa-solid fa-bars"></i></button>
+
+</template>

@@ -15,7 +15,10 @@
 <body>
     
     <header>
-		<?php include "../include/header.php"?>
+		<script type="module">
+			import {importarTemplate} from '/scripts/importarTemplate.js';
+			importarTemplate('/include/header.html', 'template-header', "header");
+		</script>
 	</header>
 
     <div class="main">
@@ -37,7 +40,10 @@
         </div>
 
         <aside class="columna">
-			<?php  include "../include/aside.php"?>
+			<script type="module">
+				import {importarTemplate} from '/scripts/importarTemplate.js';
+				importarTemplate('/include/aside.html', 'template-aside', "aside");
+			</script>
 		</aside>
 
     </div>

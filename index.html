@@ -9,25 +9,34 @@
 	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<!--
+	<script src="/scripts/importHeader.js" ></script>
+	<script src="/scripts/importAside.js" ></script>
+	<script src="/scripts/importFooter.js" ></script>
+	-->
+	
 </head>
 <body>
 
 	<header>
-		<?php include "include/header.php"?>
+		<script type="module">
+			import {importarTemplate} from '/scripts/importarTemplate.js';
+			importarTemplate('/include/header.html', 'template-header', "header");
+		</script>
 	</header>
 
 	<div class="main">
 		<div class="contenedores">
 			<article class="contenido">
 				<div class="contenido-imagen">
-					<a href="/html/historia-mate.php">
+					<a href="/html/historia-mate.html">
 						<img src="imagenes/mate1.jpg">
 						<div class="overlay"></div>
 					</a>
 				</div>
 				<div class="contenido-info">
 					<div class="info-titulo">
-						<a href="/html/historia-mate.php"><h2>Historia del Mate</h2></a>
+						<a href="/html/historia-mate.html"><h2>Historia del Mate</h2></a>
 					</div>
 					<div class="info-texto">
 						<p>Aquí les contaremos la historia del inicio del consumo del mate en todo el mundo, 
@@ -38,14 +47,14 @@
 			</article>
 			<article class="contenido">
 				<div class="contenido-imagen">
-					<a href="/html/tipos-mate.php">
+					<a href="/html/tipos-mate.html">
 						<img src="imagenes/mate3.png">
 						<div class="overlay"></div>
 					</a>
 				</div>
 				<div class="contenido-info">
 					<div class="info-titulo">
-						<a href="/html/tipos-mate.php"><h2>Tipos de Mate</h2></a>
+						<a href="/html/tipos-mate.html"><h2>Tipos de Mate</h2></a>
 					</div>
 					<div class="info-texto">
 						<p>La variedad en tipos y atributos del mate, 
@@ -57,14 +66,14 @@
 			</article>
 			<article class="contenido">
 				<div class="contenido-imagen">
-					<a href="/html/como-preparar-mate.php">
+					<a href="/html/como-preparar-mate.html">
 						<img src="imagenes/mate3.jpg">
 						<div class="overlay"></div>
 					</a>
 				</div>
 				<div class="contenido-info">
 					<div class="info-titulo">
-						<a href="/html/como-preparar-mate.php"><h2>Como Preparar un Mate</h2></a>
+						<a href="/html/como-preparar-mate.html"><h2>Como Preparar un Mate</h2></a>
 					</div>
 					<div class="info-texto">
 						<p>Cual es la manera óptima de preparar mate, 
@@ -74,14 +83,14 @@
 			</article>
 			<article class="contenido">
 				<div class="contenido-imagen">
-					<a href="/html/tipos-yerba.php">
+					<a href="/html/tipos-yerba.html">
 						<img src="imagenes/mate4.jpg">
 						<div class="overlay"></div>
 					</a>
 				</div>
 				<div class="contenido-info">
 					<div class="info-titulo">
-						<a href="/html/tipos-yerba.php"><h2>Tipos de Yerba</h2></a>
+						<a href="/html/tipos-yerba.html"><h2>Tipos de Yerba</h2></a>
 					</div>
 					<div class="info-texto">
 						<p>Yerbas existen de muchos tipos y formas, 
@@ -92,14 +101,14 @@
 			</article>
 			<article class="contenido">
 				<div class="contenido-imagen">
-					<a href="/html/curar-mate.php">
+					<a href="/html/curar-mate.html">
 						<img src="imagenes/mate5.jpg">
 						<div class="overlay"></div>
 					</a>
 				</div>
 				<div class="contenido-info">
 					<div class="info-titulo">
-						<a href="/html/curar-mate.php"><h2>Como Curar un Mate</h2></a>
+						<a href="/html/curar-mate.html"><h2>Como Curar un Mate</h2></a>
 					</div>
 					<div class="info-texto">
 						<p>Es necesario curar algunos tipos de mates ya que estos en ocasiones están hechos de madera o calabaza, 
@@ -109,14 +118,14 @@
 			</article>
 			<article class="contenido">
 				<div class="contenido-imagen">
-					<a href="/html/tipos-bombillas.php">
+					<a href="/html/tipos-bombillas.html">
 						<img src="imagenes/mate6.png">
 						<div class="overlay"></div>
 					</a>
 				</div>
 				<div class="contenido-info">
 					<div class="info-titulo">
-						<a href="/html/tipos-bombillas.php"><h2>Tipos de Bombillas</h2></a>
+						<a href="/html/tipos-bombillas.html"><h2>Tipos de Bombillas</h2></a>
 					</div>
 					<div class="info-texto">
 						<p>Los tipos de bombillas son casi tan variados como los tipos de mate, 
@@ -126,14 +135,14 @@
 			</article>
 			<article class="contenido">
 				<div class="contenido-imagen">
-					<a href="/html/formas-preparar-mate.php">
+					<a href="/html/formas-preparar-mate.html">
 						<img src="imagenes/mate7.jpg">
 						<div class="overlay"></div>
 					</a>
 				</div>
 				<div class="contenido-info">
 					<div class="info-titulo">
-						<a href="/html/formas-preparar-mate.php"><h2>Formas de Preparar un Mate</h2></a>
+						<a href="/html/formas-preparar-mate.html"><h2>Formas de Preparar un Mate</h2></a>
 					</div>
 					<div class="info-texto">
 						<p>Te contamos las variaciones de mates, las distintas formas de tomarlo y costumbres, 
@@ -143,14 +152,14 @@
 			</article>
 			<article class="contenido">
 				<div class="contenido-imagen">
-					<a href="/html/caracteristicas-mate.php">
+					<a href="/html/caracteristicas-mate.html">
 						<img src="imagenes/mate8.jpg">
 						<div class="overlay"></div>
 					</a>
 				</div>
 				<div class="contenido-info">
 					<div class="info-titulo">
-						<a href="/html/caracteristicas-mate.php"><h2>Características del Mate</h2></a>
+						<a href="/html/caracteristicas-mate.html"><h2>Características del Mate</h2></a>
 					</div>
 					<div class="info-texto">
 						<p>Cuando hablamos de las características del mate nos referimos a lo que le aporta a nuestro organismo 
@@ -160,14 +169,14 @@
 			</article>
 			<article class="contenido">
 				<div class="contenido-imagen">
-					<a href="/html/acompañar-mate.php">
+					<a href="/html/acompañar-mate.html">
 						<img src="imagenes/mate9.jpg">
 						<div class="overlay"></div>
 					</a>
 				</div>
 				<div class="contenido-info">
 					<div class="info-titulo">
-						<a href="/html/acompañar-mate.php"><h2>¿Con qué Acompañar el Mate?</h2></a>
+						<a href="/html/acompañar-mate.html"><h2>¿Con qué Acompañar el Mate?</h2></a>
 					</div>
 					<div class="info-texto">
 						<p>Aquí seleccionamos unas cuantas recetas para que los consumidores de mate puedan disfrutar 
@@ -178,17 +187,23 @@
 		</div>
 		
 		<aside class="columna">
-			<?php include "include/aside.php"?>
+			<script type="module">
+				import {importarTemplate} from '/scripts/importarTemplate.js';
+				importarTemplate('/include/aside.html', 'template-aside', "aside");
+			</script>
 		</aside>
 	</div>
 
 	<footer>
-		<?php include "include/footer.php"?>
+		<script type="module">
+			import {importarTemplate} from '/scripts/importarTemplate.js';
+			importarTemplate('/include/footer.html', 'template-footer', "footer");
+		</script>
 	</footer>
 	<button class="boton-arriba">
 		<a href="#"><i class="fa-solid fa-angles-up"></i></i></a>
 	</button>
 
-	<script src="scripts/script.js"></script>
+	<!--<script src="/scripts/script.js"></script>-->
 </body>
 <htlm>

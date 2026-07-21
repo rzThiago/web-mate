@@ -15,7 +15,10 @@
 <body>
     
     <header>
-		<?php include "../include/header.php"?>
+		<script type="module">
+			import {importarTemplate} from '/scripts/importarTemplate.js';
+			importarTemplate('/include/header.html', 'template-header', "header");
+		</script>
 	</header>
 
     <div class="main">
@@ -89,14 +92,20 @@
         </div>
 
         <aside class="columna">
-			<?php include "../include/aside.php"?>
+			<script type="module">
+				import {importarTemplate} from '/scripts/importarTemplate.js';
+				importarTemplate('/include/aside.html', 'template-aside', "aside");
+			</script>
 		</aside>
 
     </div>
 
 
     <footer>
-		<?php include "../include/footer.php"?>
+		<script type="module">
+			import {importarTemplate} from '/scripts/importarTemplate.js';
+			importarTemplate('/include/footer.html', 'template-footer', "footer");
+		</script>
 	</footer>
 	<a class="boton-arriba" href="#"><i class="fa-solid fa-angles-up"></i></i></a>
 

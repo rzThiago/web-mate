@@ -140,7 +140,7 @@ input{
     border-radius: 10px;
     font-size: 85%;
     border: 1px solid rgb(17, 145, 24);
-    transform: translate(8rem,0);
+    transform: translate(95rem,0);
     transition: all .5s ease;
 }
 
@@ -150,7 +150,6 @@ input{
 
 .buscador-header{
 	margin: 0;
-	margin-left: 1rem;
     padding: 10px;
     display: flex;
     align-items: center;
@@ -184,7 +183,7 @@ input{
 }
 
 .buscador-header.activo input{
-    transform: translate(-5rem,0);
+    transform: translate(0rem,0);
 	transition: all .5s ease;
 }
 
