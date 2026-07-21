@@ -10,7 +10,7 @@
         <ul>
             <button class="cerrar-header"><i class="fa-solid fa-xmark"></i></button>
             <li><a href="/index.php">Inicio</a></li>
-            <li><a href="/html/sobre-nosotros.php">Sobre Mi</a></li>
+            <li><a href="/html/sobre-mi.php">Sobre Mi</a></li>
         </ul>
     </div>
     <div class="buscador-header">

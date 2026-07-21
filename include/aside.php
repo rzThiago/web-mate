@@ -36,5 +36,5 @@
     <p>Mi nombre es Thiago, estudiante de programación en la Universidad Tecnológica Nacional.</p>
     <p>Como amante del mate decidí rescatar este proyecto hecho en el secundario para informar sobre la infusion que tanto amamos en el sur de América.
     </p>
-    <a href="/html/sobre-nosotros.php"><p>Leer Mas...</p></a>
+    <a href="/html/sobre-mi.php"><p>Leer Mas...</p></a>
 </div>

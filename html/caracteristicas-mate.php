@@ -69,7 +69,7 @@
 			<p>
 				Es necesario aclarar que es muy difícil sufrir de una “sobredosis” de Yerba Mate que produzca efectos secundarios como sudoración, vomito, alucinaciones y hasta la muerte.
 				<br>
-				Aunque se aconseja evitar tomar mate que quines sufren gastritis y úlcera gastroduodenal. Por otro lado No se debe tomar durante el embarazo, ni entre menores de 16 años. 
+				Aunque se aconseja evitar tomar mate que quienes sufren gastritis y úlcera gastroduodenal. Por otro lado No se debe tomar durante el embarazo, ni entre menores de 16 años. 
 				<br>
 				Por último, recordar que el limite de cafeína diaria es de 300mg. Si se quiere consumir mate, se debe reducir el consumo de infusiones que contengan este compuesto  
 			</p>

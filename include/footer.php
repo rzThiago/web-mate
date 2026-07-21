@@ -5,6 +5,6 @@
     <hr>
     <div class="footer-links">
         <a href="/index.php">Inicio</a>
-        <a href="/html/sobre-nosotros.php">Sobre Mi</a>
+        <a href="/html/sobre-mi.php">Sobre Mi</a>
     </div>
 </div>

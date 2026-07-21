@@ -31,7 +31,7 @@
 					</div>
 					<div class="info-texto">
 						<p>Aquí les contaremos la historia del inicio del consumo del mate en todo el mundo, 
-							cómo surgió, dónde, por quíenes, cuando y algunos cambios que sufrio esta infusión 
+							cómo surgió, dónde, por quienes, cuando y algunos cambios que sufrió esta infusión 
 							a lo largo de la historia.</p>
 					</div>
 				</div>
@@ -51,7 +51,7 @@
 						<p>La variedad en tipos y atributos del mate, 
 							como influye el tipo de mate en el sabor, comodidades, 
 							pros y contras, por qué en general es muy elegido un tipo de mate a otro, 
-							como influye en temperatura aromas e inclusibe gusto.</p>
+							como influye en temperatura aromas e inclusive gusto.</p>
 					</div>
 				</div>
 			</article>
@@ -68,7 +68,7 @@
 					</div>
 					<div class="info-texto">
 						<p>Cual es la manera óptima de preparar mate, 
-							sin necesidad de pasar un mal rato por un sabor indesiado, o la temperatura ideal para el mate.</p>
+							sin necesidad de pasar un mal rato por un sabor indeseado, o la temperatura ideal para el mate.</p>
 					</div>
 				</div>
 			</article>
@@ -85,7 +85,7 @@
 					</div>
 					<div class="info-texto">
 						<p>Yerbas existen de muchos tipos y formas, 
-							tanto el sabor final como el tipo de componentes, para que situación estan diseñados, 
+							tanto el sabor final como el tipo de componentes, para que situación están diseñados, 
 							para que tipo de sensación-sabor o necesidades tenes.</p>
 					</div>
 				</div>
@@ -102,7 +102,7 @@
 						<a href="/html/curar-mate.php"><h2>Como Curar un Mate</h2></a>
 					</div>
 					<div class="info-texto">
-						<p>Es necesario curar algunos tipos de mates ya que estos en ocasiones estan hechos de madera o calabaza, 
+						<p>Es necesario curar algunos tipos de mates ya que estos en ocasiones están hechos de madera o calabaza, 
 							tendiendo a pudrirse, te contamos el proceso a continuación.</p>
 					</div>
 				</div>
@@ -119,8 +119,8 @@
 						<a href="/html/tipos-bombillas.php"><h2>Tipos de Bombillas</h2></a>
 					</div>
 					<div class="info-texto">
-						<p>Los tipos de bombillas son casi tan bariados como los tipos de mate, 
-							depende del sabor y comodidad que tengas para preparar o preferiencia para consumir tú mate.</p>
+						<p>Los tipos de bombillas son casi tan variados como los tipos de mate, 
+							depende del sabor y comodidad que tengas para preparar o preferencia para consumir tú mate.</p>
 					</div>
 				</div>
 			</article>
@@ -153,7 +153,7 @@
 						<a href="/html/caracteristicas-mate.php"><h2>Características del Mate</h2></a>
 					</div>
 					<div class="info-texto">
-						<p>Cuando hablamos de las caracteristicas del mate nos referimos a lo que le aporta a nuestro organizmo 
+						<p>Cuando hablamos de las características del mate nos referimos a lo que le aporta a nuestro organismo 
 							o como hacer para que no genere asides como ejemplo.</p>
 					</div>
 				</div>
