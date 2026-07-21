@@ -26,15 +26,15 @@
                 <li class="articuloBuscador"><a href="/html/como-preparar-mate.php">Como prepara Mate</a></li>
                 <li class="articuloBuscador"><a href="/html/tipos-bombillas.php">Tipos de Bombillas</a></li>
                 <li class="articuloBuscador"><a href="/html/historia-mate.php">Historia del Mate</a></li>
-                <li class="articuloBuscador"><a href="/html/caracteristicas-mate.php">Caracteristicas del Mate</a></li>
-                <li class="articuloBuscador"><a href="/html/acompañar-mate.php">Con que acompñar el Mate</a></li>
+                <li class="articuloBuscador"><a href="/html/caracteristicas-mate.php">Características del Mate</a></li>
+                <li class="articuloBuscador"><a href="/html/acompañar-mate.php">Con que acompañar el Mate</a></li>
                 <li class="articuloBuscador"><a href="/html/formas-preparar-mate.php">Formas de preparar un Mate</a></li>
                 <li class="articuloBuscador"><a href="/html/tipos-yerba.php">Tipos de Yerba</a></li>
                 <li class="articuloBuscador"><a href="/html/curar-mate.php">Como curar un Mate</a></li>
                 <li class="articuloBuscador"><a href="/html/tipos-bombillas.php#Partes-de-una-bombilla">Partes de una Bombilla</a></li>
                 <li class="articuloBuscador"><a href="/html/tipos-bombillas.php#Bombilla-Alpaca">Bombilla de Alpaca</a></li>
                 <li class="articuloBuscador"><a href="/html/tipos-bombillas.php#Bombilla-Bronce">Bombilla de Bronce</a></li>
-                <li class="articuloBuscador"><a href="/html/tipos-bombillas.php#Bombilla-Acero-Quirurjico">Bombilla de Acero Quirurgico</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-bombillas.php#Bombilla-Acero-Quirurjico">Bombilla de Acero Quirúrgico</a></li>
                 <li class="articuloBuscador"><a href="/html/tipos-bombillas.php#Bombilla-Caña-Bambu">Bombilla de Caña de Bambú</a></li>
                 <li class="articuloBuscador"><a href="/html/tipos-bombillas.php#Bombilla-Aluminio">Bombilla de Aluminio</a></li>
                 <li class="articuloBuscador"><a href="/html/tipos-bombillas.php#Bombilla-Madera">Bombilla de Madera</a></li>
@@ -52,7 +52,7 @@
                 <li class="articuloBuscador"><a href="/html/tipos-mate.php#Mate-Caña">Mate de Caña</a></li>
                 <li class="articuloBuscador"><a href="/html/tipos-mate.php#Mate-Vidrio">Mate de Vidrio</a></li>
                 <li class="articuloBuscador"><a href="/html/tipos-mate.php#Mate-Metal">Mate de Metal</a></li>
-                <li class="articuloBuscador"><a href="/html/tipos-mate.php#Mate-Plastico">Mate de Plastico</a></li>
+                <li class="articuloBuscador"><a href="/html/tipos-mate.php#Mate-Plastico">Mate de Plástico</a></li>
                 <li class="articuloBuscador"><a href="/html/tipos-mate.php#Mate-Guampa">Mate de Guampa</a></li>
                 <li class="articuloBuscador"><a href="/html/tipos-yerba.php#Yerba-Sin-Palo">Yerba sin Palo</a></li>
                 <li class="articuloBuscador"><a href="/html/tipos-yerba.php#Yerba-Con-Palo">Yerba con Palo</a></li>
