@@ -1,4 +1,5 @@
 document.querySelector('.boton-buscar').addEventListener('click', function(){
+    document.querySelector('.links').classList.toggle('desactivar')
     document.querySelector('.buscador-header').classList.toggle('activo');
     document.querySelector('.contenedor-tabla').classList.toggle('off');
 })

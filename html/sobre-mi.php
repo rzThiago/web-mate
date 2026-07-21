@@ -25,13 +25,13 @@
                 <h1>Sobre Mi</h1>
             </div>
             <p>Mi nombre es Thiago, soy egresado como Técnico en Informática Profesional y Personal y actualmente continúo mi formación como estudiante de la Tecnicatura Universitaria en Programación en la UTN. 
-            Me apasiona la programación el desarrollo de software y el aprendizaje continuo. Te invito a conocer más sobre mi trayectoria académica y proyectos en mi perfil de <a href="https://www.linkedin.com/in/thiago-rodriguez-2ba096287/">LinkedIn</a>. 
+            Me apasiona la programación el desarrollo de software y el aprendizaje continuo. Te invito a conocer más sobre mi trayectoria académica y proyectos en mi perfil de <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/thiago-rodriguez-2ba096287/">LinkedIn</a>. 
             </p>
 			<br>
             <p>
                 Como amante del mate decidí rescatar este proyecto desarrollado originalmente durante mi etapa en el secundario para informar sobre la infusion que tanto amamos en el sur de America. El objetivo es informar de manera clara y accesible a aquellos que no conocen sobre esta tradición en esta pagina teniendo todo al alcance de pocos clicks.
                 <br>El proyecto fue hecho hace 3 años sin tener mucha idea de como realizarlo. Al retomarlo note los errores del pasado, y con lo aprendido durante este tiempo aplique cambios como modularización de código repetido, refactorización, reestructuración de archivos, asi teniendo una proyecto mas limpio y mantenible.
-                <br>Para saber mas puede visitar el código en <a href="https://github.com/rzThiago/web-mate">GitHub</a>.
+                <br>Para saber mas puede visitar el código en <a target="_blank" rel="noopener noreferrer" href="https://github.com/rzThiago/web-mate">GitHub</a>.
             </p>
 
         </div>
