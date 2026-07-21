@@ -543,6 +543,10 @@ footer{
 	list-style-type: circle;
 }
 
+.informacion-principal a{
+	color: rgb(19, 206, 2);
+}
+
 .boton-arriba{
 	border: none;
 	outline: none;

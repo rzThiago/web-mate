@@ -6,7 +6,7 @@
     <title>Sobre Mi</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' href='/estilos/styles.css'>
-    <link rel="icon" type="image/png" href="imagenes/Icono Mate.png">
+    <link rel="icon" type="image/png" href="/imagenes/logo.png">
 	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -31,7 +31,7 @@
             <p>
                 Como amante del mate decidí rescatar este proyecto desarrollado originalmente durante mi etapa en el secundario para informar sobre la infusion que tanto amamos en el sur de America. El objetivo es informar de manera clara y accesible a aquellos que no conocen sobre esta tradición en esta pagina teniendo todo al alcance de pocos clicks.
                 <br>El proyecto fue hecho hace 3 años sin tener mucha idea de como realizarlo. Al retomarlo note los errores del pasado, y con lo aprendido durante este tiempo aplique cambios como modularización de código repetido, refactorización, reestructuración de archivos, asi teniendo una proyecto mas limpio y mantenible.
-                <br>Para saber mas puede visitar el código en <a href="https://github.com/rzThiago/web-mate.git">GitHub</a>.
+                <br>Para saber mas puede visitar el código en <a href="https://github.com/rzThiago/web-mate">GitHub</a>.
             </p>
 
         </div>
